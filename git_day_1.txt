@@ -1,0 +1,9 @@
+1)Install git
+2)config user.email " "
+  config user.name " "
+3)create Repo
+4)staging 
+5)commit
+6)checkout
+7)log,log --oneline
+8)branch
